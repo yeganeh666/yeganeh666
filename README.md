@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif" style="max-width:100%;" height="90">
 </a>
 
--  📫 How to reach me: 
+-  How to reach me 📫 
 
     <a href="https://twitter.com/rebel9326" rel="nofollow">
      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rebel9326?style=social">
