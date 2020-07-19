@@ -11,7 +11,7 @@
 
 -  📫 How to reach me: 
 
-    <a href="https://twitter.com/" rel="nofollow">
+    <a href="https://twitter.com/rebel9326" rel="nofollow">
      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rebel9326?style=social">
 </a>
   
