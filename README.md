@@ -1,9 +1,9 @@
 ### Hello World, I'm Yeganeh 👋😁
-- Currently studying Computer Engineering 📚
+- 📚 Currently studying Computer Engineering 
 
-- Practising BackEnd Web Development🖥️
+- 🖥️ Practising BackEnd Web Development
 
-- Fun fact, I do have [Protagonist (ENFJ)](https://www.16personalities.com/enfj-personality) personality type ⚡
+- ⚡ Fun fact, I do have [Protagonist (ENFJ)](https://www.16personalities.com/enfj-personality) personality type 
  
 - I mostly work with **Golang** 
 
