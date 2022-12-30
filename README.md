@@ -2,6 +2,8 @@
 - Currently studying Computer Engineering 📚
 
 - Practising BackEnd Web Development🖥️
+
+- Fun fact, I do have [Protagonist (ENFJ)](https://www.16personalities.com/enfj-personality) personality type ⚡
  
 - I mostly work with **Golang** 
 
